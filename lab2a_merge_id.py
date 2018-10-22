@@ -1,6 +1,6 @@
 # Ivan Vigliante
 # CS2302 TR 10:20am-11:50am
-# Lab 2B
+# Lab 2A
 # Professor Aguirre, Diego
 # TA Saha, Manoj
 # Date of last modification: 10/16/2018
